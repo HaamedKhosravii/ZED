@@ -4,14 +4,14 @@ A minimal clone of X (Twitter) with most of the features of the original service
 
 ## Screenshots
 
-Click [here](https://github.com/EngRobot33/ZED/blob/master/screenshots/Screenshots.md) for viewing the application screenshots!
+Click [here](https://github.com/HaamedKhosravii/ZED/blob/master/screenshots/Screenshots.md) for viewing the application screenshots!
 
 ## Installation
 
 * First of all clone the project:
 
 ```bash
-git clone https://github.com/EngRobot33/ZED.git
+git clone https://github.com/HaamedKhosravii/ZED.git
 ```
 
 * Then, we need a virtual environment you can create like this:
